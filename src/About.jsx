@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import aboutPhoto from "./assets/about-1 copy.png";
+import aboutPhoto from "./assets/ABOUT-1.png";
 import { useParallax } from "react-scroll-parallax";
 import "./css/styles.css";
 import gsap from "gsap";

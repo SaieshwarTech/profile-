@@ -7,6 +7,9 @@ import ScrollTrigger from "gsap/ScrollTrigger";
 import aboutImage2 from "./assets/about-image-2.jpg";
 import about1 from "./assets/ABOUT-1.png";
 import about2 from "./assets/ABOUT-2.png";
+import aboutImage2 from "./assets/about-image-2.jpg";
+import aboutImage3 from "./assets/about-image-3.jpg";
+
 import aboutImage3 from "./assets/about-image-3.jpg";
 
 // Utility function to determine if the device is mobile
